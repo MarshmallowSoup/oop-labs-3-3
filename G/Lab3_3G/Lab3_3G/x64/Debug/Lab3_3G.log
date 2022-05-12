@@ -1,0 +1,7 @@
+﻿  Lab3_3G.cpp
+  Point.cpp
+  Triangle.cpp
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 3\Лабораторна 3.3\G\Lab3_3G\Lab3_3G\Triangle.cpp(217,53): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 3\Лабораторна 3.3\G\Lab3_3G\Lab3_3G\Triangle.cpp(217,53): error C2143: syntax error: missing ',' before '&'
+C:\Users\lyset\Лабораторні Григорович\Лабораторні ООП\Лабораторні 3\Лабораторна 3.3\G\Lab3_3G\Lab3_3G\Triangle.cpp(219,16): error C2065: 'obj': undeclared identifier
+  Generating Code...
